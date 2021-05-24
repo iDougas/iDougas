@@ -1,6 +1,6 @@
 ### Welcome to my profile
 ### Here you can mostly find stuff that are not that useful for any situation
-### And I'm sorry for it if you're reading this
+### And I'm sorry if you've read them
 
 <!--
 **iDougas/iDougas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
