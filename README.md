@@ -1,4 +1,4 @@
-### HOW
+### Welcome. Here you can mostly find stuff that are not that useful for any situation.
 
 <!--
 **iDougas/iDougas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
