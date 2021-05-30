@@ -1,5 +1,5 @@
 ### Welcome to my profile
-### Here you can mostly find stuff that are not that useful for any situation
+### Here you can mostly find stuff that are not useful for any situation
 ### And I'm sorry if you've read them
 
 <!--
